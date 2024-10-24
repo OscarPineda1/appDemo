@@ -15,11 +15,13 @@ public class OrdenesController : Controller
 
     public IActionResult Index()
     {
+        ViewData["listaOrdenes"] = new List<Ordenes>();
         return View();
     }
-    public IActionResult Ordenar(Ordenes ordenes)
+    public IActionResult Create(Ordenes ordenes)
     {
         List<Ordenes> listaOrdenes = new List<Ordenes>();
+        ordenes.CalcularOrden();
         listaOrdenes.Add(ordenes);
         ViewData["listaOrdenes"]=listaOrdenes;
         return View("Index");

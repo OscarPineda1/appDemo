@@ -28,3 +28,4 @@ D:\USMP\CURSOS\PROGRAMACION 1\appDemo\obj\Debug\net8.0\refint\appDemo.dll
 D:\USMP\CURSOS\PROGRAMACION 1\appDemo\obj\Debug\net8.0\appDemo.pdb
 D:\USMP\CURSOS\PROGRAMACION 1\appDemo\obj\Debug\net8.0\appDemo.genruntimeconfig.cache
 D:\USMP\CURSOS\PROGRAMACION 1\appDemo\obj\Debug\net8.0\ref\appDemo.dll
+D:\USMP\CURSOS\PROGRAMACION 1\appDemo\obj\Debug\net8.0\appDemo.sourcelink.json
